@@ -140,7 +140,7 @@ html {
 }
 
 #mobile-input {
-	display: block;
+	display: none;
 	position: absolute;
 	left: -120%;
 }

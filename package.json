@@ -1,6 +1,6 @@
 {
 	"name": "wordle-clone",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple Wordle clone made with React.",
 	"author": "Kemal Gedik",
 	"main": "index.js",

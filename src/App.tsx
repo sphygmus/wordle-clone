@@ -41,7 +41,6 @@ const App: React.FC = () => {
 
 			const randomWord = chooseRandomWord(allWords);
 			setChosenWord(randomWord);
-			console.log(randomWord)
 		}
 
 		getAllWords();
